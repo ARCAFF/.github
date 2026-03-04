@@ -1,4 +1,5 @@
 <img src="https://github.com/ARCAFF/.github/assets/24570854/be14a68f-dbd4-46e3-a2ce-ea4975b7671f" alt="Alt Text" width="200">
+
 # ARCAFF
 
 The Sun is an enigmatic star that produces the most powerful explosive events in our solar system – solar flares and coronal mass ejections. Studying these phenomena can provide a unique opportunity to develop a deeper understanding of fundamental processes on the Sun, and critically, to better forecast space weather. The Active Region Classification and Flare Forecasting (ARCAFF) project will develop a beyond state-of-the-art flare forecasting system utilising end-to-end deep learning (DL) models to significantly improve upon traditional flare forecasting capabilities.
